@@ -1,0 +1,3 @@
+setting,role,voltage_MAE_mV,voltage_RMSE_mV,voltage_bias_mV
+Frozen capacity prediction + U_dev,primary end-to-end reconstruction,34.79867072388867,38.4432538816365,-34.39816827572556
+Observed capacity + U_dev,evaluation-only diagnostic; observed capacity is not a model input,28.021104642925767,29.227710756127355,-27.619779471906174
