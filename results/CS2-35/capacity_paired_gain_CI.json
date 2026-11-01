@@ -1,0 +1,8 @@
+{
+  "mean": 35.41598005238606,
+  "ci95_low": 24.7784895778701,
+  "ci95_high": 43.82871875283721,
+  "n": 41,
+  "method": "circular moving-block bootstrap",
+  "block_length": 5
+}
