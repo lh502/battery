@@ -1,0 +1,43 @@
+  CS2_33: CS2_33_8_17_10.xlsx, 1 candidate cycles
+  CS2_33: CS2_33_8_18_10.xlsx, 2 candidate cycles
+  CS2_33: CS2_33_8_19_10.xlsx, 3 candidate cycles
+  CS2_33: CS2_33_8_30_10.xlsx, 53 candidate cycles
+  CS2_33: CS2_33_9_7_10.xlsx, 86 candidate cycles
+  CS2_33: CS2_33_9_17_10.xlsx, 136 candidate cycles
+CS2-33 {"cell": "CS2-33", "status": "complete", "accepted_cycles": 100, "development_cycles": 60, "capacity_test_cycles": 40, "confirmation_cycles": 20, "measured_median_current_A": 0.5501731634140015, "recent_state_capacity_MAE_mAh": 25.31357769302564, "linear_capacity_MAE_mAh": 12.859675772419155, "saturating_capacity_MAE_mAh": 9.875586820579816, "capacity_MAE_reduction_percent": 60.986997016621935, "capacity_paired_gain_CI95_low_mAh": 11.792719288133732, "capacity_paired_gain_CI95_high_mAh": 18.736266994494144, "pooled_voltage_MAE_mV": 11.042201083830317, "pooled_voltage_RMSE_mV": 26.7422229438703, "pooled_voltage_bias_mV": 6.513176871087221, "cycle_mean_voltage_MAE_mV": 11.385394298330596, "cycle_mean_MAE_CI95_low_mV": 6.71091227092344, "cycle_mean_MAE_CI95_high_mV": 18.644440152036072, "mapping_only_MAE_mV_diagnostic": 8.184422402141111, "mean_common_support_fraction": 0.9960888420284151, "endpoint_evaluable_count": 19, "endpoint_MAE_min_diagnostic": 0.49431830067946736, "CS2_21_transfer_MAE_mV": 256.211378479224, "error": ""}
+  CS2_34: CS2_34_8_17_10.xlsx, 1 candidate cycles
+  CS2_34: CS2_34_8_18_10.xlsx, 2 candidate cycles
+  CS2_34: CS2_34_8_19_10.xlsx, 3 candidate cycles
+  CS2_34: CS2_34_8_30_10.xlsx, 53 candidate cycles
+  CS2_34: CS2_34_9_7_10.xlsx, 85 candidate cycles
+  CS2_34: CS2_34_9_8_10.xlsx, 90 candidate cycles
+  CS2_34: CS2_34_9_24_10.xlsx, 140 candidate cycles
+CS2-34 {"cell": "CS2-34", "status": "complete", "accepted_cycles": 100, "development_cycles": 60, "capacity_test_cycles": 40, "confirmation_cycles": 20, "measured_median_current_A": 0.5496563911437988, "recent_state_capacity_MAE_mAh": 16.11915672759011, "linear_capacity_MAE_mAh": 12.562420315352131, "saturating_capacity_MAE_mAh": 8.586992802022797, "capacity_MAE_reduction_percent": 46.728027109972814, "capacity_paired_gain_CI95_low_mAh": 3.947513959957679, "capacity_paired_gain_CI95_high_mAh": 11.400129561222895, "pooled_voltage_MAE_mV": 8.857711075212533, "pooled_voltage_RMSE_mV": 25.901752888814414, "pooled_voltage_bias_mV": -4.729506356618098, "cycle_mean_voltage_MAE_mV": 8.860233998799897, "cycle_mean_MAE_CI95_low_mV": 7.149583122231178, "cycle_mean_MAE_CI95_high_mV": 10.450682980042865, "mapping_only_MAE_mV_diagnostic": 4.95387984730854, "mean_common_support_fraction": 0.9897816406609854, "endpoint_evaluable_count": 20, "endpoint_MAE_min_diagnostic": 1.2128723336273006, "CS2_21_transfer_MAE_mV": 242.55480580158198, "error": ""}
+  CS2_35: CS2_35_8_17_10.xlsx, 1 candidate cycles
+  CS2_35: CS2_35_8_18_10.xlsx, 2 candidate cycles
+  CS2_35: CS2_35_8_19_10.xlsx, 3 candidate cycles
+  CS2_35: CS2_35_8_30_10.xlsx, 53 candidate cycles
+  CS2_35: CS2_35_9_7_10.xlsx, 97 candidate cycles
+  CS2_35: CS2_35_9_8_10.xlsx, 104 candidate cycles
+CS2-35 {"cell": "CS2-35", "status": "complete", "accepted_cycles": 101, "development_cycles": 60, "capacity_test_cycles": 41, "confirmation_cycles": 21, "measured_median_current_A": 1.099568486213684, "recent_state_capacity_MAE_mAh": 44.28996963060887, "linear_capacity_MAE_mAh": 17.60299411518601, "saturating_capacity_MAE_mAh": 8.873989578222805, "capacity_MAE_reduction_percent": 79.96388425588358, "capacity_paired_gain_CI95_low_mAh": 24.7784895778701, "capacity_paired_gain_CI95_high_mAh": 43.82871875283721, "pooled_voltage_MAE_mV": 20.955878098991715, "pooled_voltage_RMSE_mV": 33.008618972069506, "pooled_voltage_bias_mV": 20.940012913012104, "cycle_mean_voltage_MAE_mV": 21.015488574340917, "cycle_mean_MAE_CI95_low_mV": 15.831106968102553, "cycle_mean_MAE_CI95_high_mV": 27.61398372476565, "mapping_only_MAE_mV_diagnostic": 13.859460823096338, "mean_common_support_fraction": 0.9999716359124422, "endpoint_evaluable_count": 9, "endpoint_MAE_min_diagnostic": 0.28412520835198574, "CS2_21_transfer_MAE_mV": 162.69097164273654, "error": ""}
+  CS2_36: CS2_36_8_17_10.xlsx, 1 candidate cycles
+  CS2_36: CS2_36_8_18_10.xlsx, 2 candidate cycles
+  CS2_36: CS2_36_8_19_10.xlsx, 3 candidate cycles
+  CS2_36: CS2_36_8_30_10.xlsx, 53 candidate cycles
+  CS2_36: CS2_36_9_7_10.xlsx, 97 candidate cycles
+  CS2_36: CS2_36_9_14_10.xlsx, 147 candidate cycles
+CS2-36 {"cell": "CS2-36", "status": "complete", "accepted_cycles": 100, "development_cycles": 60, "capacity_test_cycles": 40, "confirmation_cycles": 20, "measured_median_current_A": 1.0998904705047607, "recent_state_capacity_MAE_mAh": 38.858433845822866, "linear_capacity_MAE_mAh": 22.587108966887264, "saturating_capacity_MAE_mAh": 14.363870293421476, "capacity_MAE_reduction_percent": 63.03538544447659, "capacity_paired_gain_CI95_low_mAh": 15.906199841963288, "capacity_paired_gain_CI95_high_mAh": 31.96565709074588, "pooled_voltage_MAE_mV": 20.826312238294275, "pooled_voltage_RMSE_mV": 39.80939261637938, "pooled_voltage_bias_mV": 17.30061649108459, "cycle_mean_voltage_MAE_mV": 21.665387059063566, "cycle_mean_MAE_CI95_low_mV": 14.2360869653179, "cycle_mean_MAE_CI95_high_mV": 29.597980593367303, "mapping_only_MAE_mV_diagnostic": 14.522816252267676, "mean_common_support_fraction": 0.9963935446691211, "endpoint_evaluable_count": 17, "endpoint_MAE_min_diagnostic": 0.2783899897793564, "CS2_21_transfer_MAE_mV": 167.55667726329898, "error": ""}
+  CS2_37: CS2_37_8_17_10.xlsx, 1 candidate cycles
+  CS2_37: CS2_37_8_18_10.xlsx, 2 candidate cycles
+  CS2_37: CS2_37_8_19_10.xlsx, 3 candidate cycles
+  CS2_37: CS2_37_8_30_10.xlsx, 53 candidate cycles
+  CS2_37: CS2_37_9_7_10.xlsx, 98 candidate cycles
+  CS2_37: CS2_37_9_14_10.xlsx, 148 candidate cycles
+CS2-37 {"cell": "CS2-37", "status": "complete", "accepted_cycles": 100, "development_cycles": 60, "capacity_test_cycles": 40, "confirmation_cycles": 20, "measured_median_current_A": 1.0996125936508179, "recent_state_capacity_MAE_mAh": 50.80404754036933, "linear_capacity_MAE_mAh": 15.293597928842065, "saturating_capacity_MAE_mAh": 20.19774693833755, "capacity_MAE_reduction_percent": 60.24382324599582, "capacity_paired_gain_CI95_low_mAh": 24.621952157465845, "capacity_paired_gain_CI95_high_mAh": 35.44602179379874, "pooled_voltage_MAE_mV": 28.755852356348246, "pooled_voltage_RMSE_mV": 49.726230147485765, "pooled_voltage_bias_mV": 28.755852356348246, "cycle_mean_voltage_MAE_mV": 29.689254856117323, "cycle_mean_MAE_CI95_low_mV": 20.746328739025884, "cycle_mean_MAE_CI95_high_mV": 39.369862941881436, "mapping_only_MAE_mV_diagnostic": 15.928056009878008, "mean_common_support_fraction": 1.0, "endpoint_evaluable_count": 2, "endpoint_MAE_min_diagnostic": 0.383692453632375, "CS2_21_transfer_MAE_mV": 158.59478548451438, "error": ""}
+  CS2_38: CS2_38_8_17_10.xlsx, 1 candidate cycles
+  CS2_38: CS2_38_8_18_10.xlsx, 2 candidate cycles
+  CS2_38: CS2_38_8_19_10.xlsx, 3 candidate cycles
+  CS2_38: CS2_38_8_30_10.xlsx, 53 candidate cycles
+  CS2_38: CS2_38_9_7_10.xlsx, 96 candidate cycles
+  CS2_38: CS2_38_9_14_10.xlsx, 146 candidate cycles
+CS2-38 {"cell": "CS2-38", "status": "complete", "accepted_cycles": 100, "development_cycles": 60, "capacity_test_cycles": 40, "confirmation_cycles": 20, "measured_median_current_A": 1.099535584449768, "recent_state_capacity_MAE_mAh": 43.34438001315643, "linear_capacity_MAE_mAh": 19.992211699930746, "saturating_capacity_MAE_mAh": 13.45260221229527, "capacity_MAE_reduction_percent": 68.96344529968599, "capacity_paired_gain_CI95_low_mAh": 19.700729460630775, "capacity_paired_gain_CI95_high_mAh": 38.21295042814446, "pooled_voltage_MAE_mV": 62.67839425199713, "pooled_voltage_RMSE_mV": 68.05413181035937, "pooled_voltage_bias_mV": 61.81342215114449, "cycle_mean_voltage_MAE_mV": 63.333757802922015, "cycle_mean_MAE_CI95_low_mV": 53.80942961415932, "cycle_mean_MAE_CI95_high_mV": 72.97366428536604, "mapping_only_MAE_mV_diagnostic": 59.18294831962497, "mean_common_support_fraction": 0.998556407837707, "endpoint_evaluable_count": 16, "endpoint_MAE_min_diagnostic": 0.12350522663404792, "CS2_21_transfer_MAE_mV": 101.37720349995361, "error": ""}

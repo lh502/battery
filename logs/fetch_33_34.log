@@ -1,0 +1,43 @@
+CS2_33: reading official remote ZIP central directory
+CS2_34: reading official remote ZIP central directory
+CS2_33: retrieving CS2_33/CS2_33_8_17_10.xlsx (219,883 ZIP bytes)
+CS2_34: retrieving CS2_34/CS2_34_8_17_10.xlsx (216,976 ZIP bytes)
+CS2_34: CS2_34_8_17_10.xlsx contributes 1; total 1
+CS2_34: retrieving CS2_34/CS2_34_8_18_10.xlsx (86,288 ZIP bytes)
+CS2_33: CS2_33_8_17_10.xlsx contributes 1; total 1
+CS2_33: retrieving CS2_33/CS2_33_8_18_10.xlsx (86,637 ZIP bytes)
+CS2_33: CS2_33_8_18_10.xlsx contributes 1; total 2
+CS2_33: retrieving CS2_33/CS2_33_8_19_10.xlsx (87,650 ZIP bytes)
+CS2_34: CS2_34_8_18_10.xlsx contributes 1; total 2
+CS2_34: retrieving CS2_34/CS2_34_8_19_10.xlsx (85,425 ZIP bytes)
+CS2_33: CS2_33_8_19_10.xlsx contributes 1; total 3
+CS2_33: retrieving CS2_33/CS2_33_8_30_10.xlsx (3,523,519 ZIP bytes)
+CS2_34: CS2_34_8_19_10.xlsx contributes 1; total 3
+CS2_34: retrieving CS2_34/CS2_34_8_30_10.xlsx (3,452,516 ZIP bytes)
+CS2_33: CS2_33_8_30_10.xlsx contributes 50; total 53
+CS2_33: retrieving CS2_33/CS2_33_9_7_10.xlsx (2,265,046 ZIP bytes)
+CS2_34: CS2_34_8_30_10.xlsx contributes 50; total 53
+CS2_34: retrieving CS2_34/CS2_34_9_7_10.xlsx (2,195,028 ZIP bytes)
+  Retry bytes=41291844-41291873 1: URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>
+CS2_33: CS2_33_9_7_10.xlsx contributes 33; total 86
+CS2_33: retrieving CS2_33/CS2_33_9_17_10.xlsx (3,390,130 ZIP bytes)
+CS2_34: CS2_34_9_7_10.xlsx contributes 32; total 85
+CS2_34: retrieving CS2_34/CS2_34_9_8_10.xlsx (347,403 ZIP bytes)
+CS2_34: CS2_34_9_8_10.xlsx contributes 5; total 90
+CS2_34: retrieving CS2_34/CS2_34_9_24_10.xlsx (3,326,393 ZIP bytes)
+CS2_33: CS2_33_9_17_10.xlsx contributes 50; total 136
+CS2_33: READY, 6 workbooks, 136 candidates
+CS2_34: CS2_34_9_24_10.xlsx contributes 50; total 140
+CS2_34: READY, 7 workbooks, 140 candidates
+[
+  {
+    "cell": 33,
+    "members": 6,
+    "candidates": 136
+  },
+  {
+    "cell": 34,
+    "members": 7,
+    "candidates": 140
+  }
+]

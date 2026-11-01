@@ -1,0 +1,41 @@
+CS2_37: reading official remote ZIP central directory
+CS2_38: reading official remote ZIP central directory
+CS2_37: retrieving CS2_37/CS2_37_8_17_10.xlsx (166,504 ZIP bytes)
+CS2_38: retrieving CS2_38/CS2_38_8_17_10.xlsx (167,371 ZIP bytes)
+CS2_38: CS2_38_8_17_10.xlsx contributes 1; total 1
+CS2_38: retrieving CS2_38/CS2_38_8_18_10.xlsx (68,275 ZIP bytes)
+CS2_37: CS2_37_8_17_10.xlsx contributes 1; total 1
+CS2_37: retrieving CS2_37/CS2_37_8_18_10.xlsx (68,561 ZIP bytes)
+  Retry bytes=30724392-30724421 1: URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>
+CS2_37: CS2_37_8_18_10.xlsx contributes 1; total 2
+CS2_37: retrieving CS2_37/CS2_37_8_19_10.xlsx (68,538 ZIP bytes)
+CS2_37: CS2_37_8_19_10.xlsx contributes 1; total 3
+CS2_37: retrieving CS2_37/CS2_37_8_30_10.xlsx (2,634,935 ZIP bytes)
+CS2_38: CS2_38_8_18_10.xlsx contributes 1; total 2
+CS2_38: retrieving CS2_38/CS2_38_8_19_10.xlsx (68,503 ZIP bytes)
+CS2_38: CS2_38_8_19_10.xlsx contributes 1; total 3
+CS2_38: retrieving CS2_38/CS2_38_8_30_10.xlsx (2,610,167 ZIP bytes)
+CS2_37: CS2_37_8_30_10.xlsx contributes 50; total 53
+CS2_37: retrieving CS2_37/CS2_37_9_7_10.xlsx (2,265,335 ZIP bytes)
+CS2_38: CS2_38_8_30_10.xlsx contributes 50; total 53
+CS2_38: retrieving CS2_38/CS2_38_9_7_10.xlsx (2,113,431 ZIP bytes)
+CS2_37: CS2_37_9_7_10.xlsx contributes 45; total 98
+CS2_37: retrieving CS2_37/CS2_37_9_14_10.xlsx (2,458,640 ZIP bytes)
+CS2_38: CS2_38_9_7_10.xlsx contributes 43; total 96
+CS2_38: retrieving CS2_38/CS2_38_9_14_10.xlsx (2,389,821 ZIP bytes)
+CS2_37: CS2_37_9_14_10.xlsx contributes 50; total 148
+CS2_37: READY, 6 workbooks, 148 candidates
+CS2_38: CS2_38_9_14_10.xlsx contributes 50; total 146
+CS2_38: READY, 6 workbooks, 146 candidates
+[
+  {
+    "cell": 37,
+    "members": 6,
+    "candidates": 148
+  },
+  {
+    "cell": 38,
+    "members": 6,
+    "candidates": 146
+  }
+]

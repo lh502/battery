@@ -1,0 +1,69 @@
+{
+  "passed": true,
+  "supplied_source_files_unchanged": true,
+  "source_sha256": {
+    "locked_core.py": "6325ead1256c29a98ef7bd202584e153db3830408eac51632761fe24ef1b143c",
+    "build_report.py": "be04ffb9ff0d8312e5043f7a9970d89ff967a25bcaba715dba00724cce1bb451",
+    "run_multicell.py": "708384199a014d8d0ea59ce0a4c6c07b12dc716093430be29e581cb713ec6cbc",
+    "plot_results.py": "a8d760be4b7bb4c95d04f8ff3716da8e834299d4943c10668c82b75395f24ff2"
+  },
+  "cell_checks": [
+    {
+      "cell": "CS2-21",
+      "final_cycles_checked": 17,
+      "settings_checked": 2,
+      "capacity_and_voltage_summary_recomputed": true,
+      "original_core_comparison_passed": true
+    },
+    {
+      "cell": "CS2-8",
+      "final_cycles_checked": 16,
+      "settings_checked": 2,
+      "capacity_and_voltage_summary_recomputed": true,
+      "original_core_comparison_passed": true
+    },
+    {
+      "cell": "CS2-33",
+      "final_cycles_checked": 20,
+      "settings_checked": 2,
+      "capacity_and_voltage_summary_recomputed": true,
+      "original_core_comparison_passed": true
+    },
+    {
+      "cell": "CS2-34",
+      "final_cycles_checked": 20,
+      "settings_checked": 2,
+      "capacity_and_voltage_summary_recomputed": true,
+      "original_core_comparison_passed": true
+    },
+    {
+      "cell": "CS2-35",
+      "final_cycles_checked": 21,
+      "settings_checked": 2,
+      "capacity_and_voltage_summary_recomputed": true,
+      "original_core_comparison_passed": true
+    },
+    {
+      "cell": "CS2-36",
+      "final_cycles_checked": 20,
+      "settings_checked": 2,
+      "capacity_and_voltage_summary_recomputed": true,
+      "original_core_comparison_passed": true
+    },
+    {
+      "cell": "CS2-37",
+      "final_cycles_checked": 20,
+      "settings_checked": 2,
+      "capacity_and_voltage_summary_recomputed": true,
+      "original_core_comparison_passed": true
+    },
+    {
+      "cell": "CS2-38",
+      "final_cycles_checked": 20,
+      "settings_checked": 2,
+      "capacity_and_voltage_summary_recomputed": true,
+      "original_core_comparison_passed": true
+    }
+  ],
+  "figure_files": 12
+}
