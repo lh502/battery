@@ -1,0 +1,830 @@
+{
+  "url": "https://web.calce.umd.edu/batteries/data/CS2_34.zip",
+  "source_url": "https://web.calce.umd.edu/batteries/data/CS2_34.zip",
+  "retrieval_mode": "partial ZIP entry retrieval using HTTP byte ranges",
+  "whole_archive_downloaded": false,
+  "whole_archive_sha256": null,
+  "remote_archive_size_bytes": 43836986,
+  "remote_archive_entry_count": 24,
+  "central_directory_sha256": "53bb0c8a50e9c8594e292a5faa6393097ac9cc7dfb0eb4c45a20521c679812fd",
+  "etag": "\"2e2a45-29ce63a-51cf5ec534a40\"",
+  "last_modified": "Mon, 10 Aug 2015 14:37:21 GMT",
+  "selection": "Chronological date_key order; exact read_arbin candidate rules; stop at first workbook giving >=101 candidates",
+  "retrieved_at_utc": "2026-10-12T13:27:18.378118+00:00",
+  "members": [
+    {
+      "member": "CS2_34/CS2_34_8_17_10.xlsx",
+      "local_path": "/Users/aaa/Documents/Codex/2026-10-12/pao/work/code2_run/data/CS2_34/CS2_34_8_17_10.xlsx",
+      "size_bytes": 237876,
+      "compressed_bytes": 216976,
+      "sha256": "84b081a74b8f572cb550f5d52fc9046b22b9cff4455fab1d0e59cacdcfc80bf4",
+      "crc32": "f21e05c1",
+      "crc_validation": "passed against official ZIP central directory",
+      "sheet": "Channel_1-007",
+      "valid_rows": 1447,
+      "required_rows_dropped": 0,
+      "candidate_cycles_in_file": 1,
+      "duplicate_candidates_in_file": 0,
+      "candidate_dates": [
+        {
+          "local_cycle": 1,
+          "date_start": "2010-08-16 16:28:13",
+          "date_end": "2010-08-16 18:34:03"
+        }
+      ]
+    },
+    {
+      "member": "CS2_34/CS2_34_8_18_10.xlsx",
+      "local_path": "/Users/aaa/Documents/Codex/2026-10-12/pao/work/code2_run/data/CS2_34/CS2_34_8_18_10.xlsx",
+      "size_bytes": 93456,
+      "compressed_bytes": 86288,
+      "sha256": "5d882f66c38c7bd07b257a43a3afe7a3acd46cdd7af4b5f96cc8f7eabed7d497",
+      "crc32": "64f2d5ea",
+      "crc_validation": "passed against official ZIP central directory",
+      "sheet": "Channel_1-007",
+      "valid_rows": 506,
+      "required_rows_dropped": 0,
+      "candidate_cycles_in_file": 1,
+      "duplicate_candidates_in_file": 0,
+      "candidate_dates": [
+        {
+          "local_cycle": 1,
+          "date_start": "2010-08-17 17:12:41",
+          "date_end": "2010-08-17 19:18:20"
+        }
+      ]
+    },
+    {
+      "member": "CS2_34/CS2_34_8_19_10.xlsx",
+      "local_path": "/Users/aaa/Documents/Codex/2026-10-12/pao/work/code2_run/data/CS2_34/CS2_34_8_19_10.xlsx",
+      "size_bytes": 93269,
+      "compressed_bytes": 85425,
+      "sha256": "afe9514a6810c075fb66f5d8136b4ca2a2caab8c7d5429d77108c4b2707bf084",
+      "crc32": "c6553f7c",
+      "crc_validation": "passed against official ZIP central directory",
+      "sheet": "Channel_1-007",
+      "valid_rows": 505,
+      "required_rows_dropped": 0,
+      "candidate_cycles_in_file": 1,
+      "duplicate_candidates_in_file": 0,
+      "candidate_dates": [
+        {
+          "local_cycle": 1,
+          "date_start": "2010-08-18 13:40:47",
+          "date_end": "2010-08-18 15:46:17"
+        }
+      ]
+    },
+    {
+      "member": "CS2_34/CS2_34_8_30_10.xlsx",
+      "local_path": "/Users/aaa/Documents/Codex/2026-10-12/pao/work/code2_run/data/CS2_34/CS2_34_8_30_10.xlsx",
+      "size_bytes": 3866769,
+      "compressed_bytes": 3452516,
+      "sha256": "a858b5c187dba56768714808196730389f4a7423753f3789aa3984e5be2501b5",
+      "crc32": "301709df",
+      "crc_validation": "passed against official ZIP central directory",
+      "sheet": "Channel_1-007",
+      "valid_rows": 24660,
+      "required_rows_dropped": 0,
+      "candidate_cycles_in_file": 50,
+      "duplicate_candidates_in_file": 0,
+      "candidate_dates": [
+        {
+          "local_cycle": 1,
+          "date_start": "2010-08-19 17:02:35",
+          "date_end": "2010-08-19 19:07:57"
+        },
+        {
+          "local_cycle": 2,
+          "date_start": "2010-08-19 21:49:40",
+          "date_end": "2010-08-19 23:54:53"
+        },
+        {
+          "local_cycle": 3,
+          "date_start": "2010-08-20 02:35:38",
+          "date_end": "2010-08-20 04:40:35"
+        },
+        {
+          "local_cycle": 4,
+          "date_start": "2010-08-20 07:22:04",
+          "date_end": "2010-08-20 09:26:35"
+        },
+        {
+          "local_cycle": 5,
+          "date_start": "2010-08-20 12:07:25",
+          "date_end": "2010-08-20 14:11:41"
+        },
+        {
+          "local_cycle": 6,
+          "date_start": "2010-08-20 16:52:22",
+          "date_end": "2010-08-20 18:56:27"
+        },
+        {
+          "local_cycle": 7,
+          "date_start": "2010-08-20 21:36:20",
+          "date_end": "2010-08-20 23:40:27"
+        },
+        {
+          "local_cycle": 8,
+          "date_start": "2010-08-21 02:19:32",
+          "date_end": "2010-08-21 04:23:34"
+        },
+        {
+          "local_cycle": 9,
+          "date_start": "2010-08-21 07:02:17",
+          "date_end": "2010-08-21 09:06:13"
+        },
+        {
+          "local_cycle": 10,
+          "date_start": "2010-08-21 11:44:41",
+          "date_end": "2010-08-21 13:48:29"
+        },
+        {
+          "local_cycle": 11,
+          "date_start": "2010-08-21 16:26:37",
+          "date_end": "2010-08-21 18:30:20"
+        },
+        {
+          "local_cycle": 12,
+          "date_start": "2010-08-21 21:08:11",
+          "date_end": "2010-08-21 23:11:48"
+        },
+        {
+          "local_cycle": 13,
+          "date_start": "2010-08-22 01:49:33",
+          "date_end": "2010-08-22 03:53:04"
+        },
+        {
+          "local_cycle": 14,
+          "date_start": "2010-08-22 05:49:12",
+          "date_end": "2010-08-22 07:37:32"
+        },
+        {
+          "local_cycle": 15,
+          "date_start": "2010-08-22 10:15:02",
+          "date_end": "2010-08-22 12:18:24"
+        },
+        {
+          "local_cycle": 16,
+          "date_start": "2010-08-22 14:55:40",
+          "date_end": "2010-08-22 16:58:57"
+        },
+        {
+          "local_cycle": 17,
+          "date_start": "2010-08-22 19:36:01",
+          "date_end": "2010-08-22 21:39:12"
+        },
+        {
+          "local_cycle": 18,
+          "date_start": "2010-08-23 00:16:12",
+          "date_end": "2010-08-23 02:19:18"
+        },
+        {
+          "local_cycle": 19,
+          "date_start": "2010-08-23 04:56:21",
+          "date_end": "2010-08-23 06:59:04"
+        },
+        {
+          "local_cycle": 20,
+          "date_start": "2010-08-23 09:37:00",
+          "date_end": "2010-08-23 11:39:31"
+        },
+        {
+          "local_cycle": 21,
+          "date_start": "2010-08-23 14:17:23",
+          "date_end": "2010-08-23 16:19:46"
+        },
+        {
+          "local_cycle": 22,
+          "date_start": "2010-08-23 18:57:50",
+          "date_end": "2010-08-23 21:00:12"
+        },
+        {
+          "local_cycle": 23,
+          "date_start": "2010-08-23 23:36:50",
+          "date_end": "2010-08-24 01:39:17"
+        },
+        {
+          "local_cycle": 24,
+          "date_start": "2010-08-24 04:15:16",
+          "date_end": "2010-08-24 06:17:30"
+        },
+        {
+          "local_cycle": 25,
+          "date_start": "2010-08-24 08:54:46",
+          "date_end": "2010-08-24 10:56:44"
+        },
+        {
+          "local_cycle": 26,
+          "date_start": "2010-08-24 13:33:59",
+          "date_end": "2010-08-24 15:35:50"
+        },
+        {
+          "local_cycle": 27,
+          "date_start": "2010-08-24 18:13:19",
+          "date_end": "2010-08-24 20:15:06"
+        },
+        {
+          "local_cycle": 28,
+          "date_start": "2010-08-24 22:51:26",
+          "date_end": "2010-08-25 00:53:25"
+        },
+        {
+          "local_cycle": 29,
+          "date_start": "2010-08-25 03:29:30",
+          "date_end": "2010-08-25 05:31:17"
+        },
+        {
+          "local_cycle": 30,
+          "date_start": "2010-08-25 08:08:24",
+          "date_end": "2010-08-25 10:09:53"
+        },
+        {
+          "local_cycle": 31,
+          "date_start": "2010-08-25 12:46:56",
+          "date_end": "2010-08-25 14:48:21"
+        },
+        {
+          "local_cycle": 32,
+          "date_start": "2010-08-25 17:25:11",
+          "date_end": "2010-08-25 19:26:30"
+        },
+        {
+          "local_cycle": 33,
+          "date_start": "2010-08-25 22:02:39",
+          "date_end": "2010-08-26 00:04:10"
+        },
+        {
+          "local_cycle": 34,
+          "date_start": "2010-08-26 02:39:55",
+          "date_end": "2010-08-26 04:41:21"
+        },
+        {
+          "local_cycle": 35,
+          "date_start": "2010-08-26 07:17:59",
+          "date_end": "2010-08-26 09:19:09"
+        },
+        {
+          "local_cycle": 36,
+          "date_start": "2010-08-26 11:55:39",
+          "date_end": "2010-08-26 13:56:43"
+        },
+        {
+          "local_cycle": 37,
+          "date_start": "2010-08-26 16:33:10",
+          "date_end": "2010-08-26 18:34:07"
+        },
+        {
+          "local_cycle": 38,
+          "date_start": "2010-08-26 20:26:47",
+          "date_end": "2010-08-26 22:12:02"
+        },
+        {
+          "local_cycle": 39,
+          "date_start": "2010-08-27 00:47:44",
+          "date_end": "2010-08-27 02:48:55"
+        },
+        {
+          "local_cycle": 40,
+          "date_start": "2010-08-27 05:25:15",
+          "date_end": "2010-08-27 07:26:03"
+        },
+        {
+          "local_cycle": 41,
+          "date_start": "2010-08-27 10:02:32",
+          "date_end": "2010-08-27 12:03:14"
+        },
+        {
+          "local_cycle": 42,
+          "date_start": "2010-08-27 14:39:34",
+          "date_end": "2010-08-27 16:40:11"
+        },
+        {
+          "local_cycle": 43,
+          "date_start": "2010-08-27 19:16:31",
+          "date_end": "2010-08-27 21:17:13"
+        },
+        {
+          "local_cycle": 44,
+          "date_start": "2010-08-27 23:52:28",
+          "date_end": "2010-08-28 01:53:16"
+        },
+        {
+          "local_cycle": 45,
+          "date_start": "2010-08-28 04:28:19",
+          "date_end": "2010-08-28 06:29:07"
+        },
+        {
+          "local_cycle": 46,
+          "date_start": "2010-08-28 09:04:02",
+          "date_end": "2010-08-28 11:04:49"
+        },
+        {
+          "local_cycle": 47,
+          "date_start": "2010-08-28 13:39:35",
+          "date_end": "2010-08-28 15:40:22"
+        },
+        {
+          "local_cycle": 48,
+          "date_start": "2010-08-28 18:14:49",
+          "date_end": "2010-08-28 20:15:34"
+        },
+        {
+          "local_cycle": 49,
+          "date_start": "2010-08-28 22:50:01",
+          "date_end": "2010-08-29 00:50:44"
+        },
+        {
+          "local_cycle": 50,
+          "date_start": "2010-08-29 03:25:01",
+          "date_end": "2010-08-29 05:25:40"
+        }
+      ]
+    },
+    {
+      "member": "CS2_34/CS2_34_9_7_10.xlsx",
+      "local_path": "/Users/aaa/Documents/Codex/2026-10-12/pao/work/code2_run/data/CS2_34/CS2_34_9_7_10.xlsx",
+      "size_bytes": 2439814,
+      "compressed_bytes": 2195028,
+      "sha256": "d63a4e147157842e8d3bceee3c92fc13138ddae65b1cf4c97c01cd345206e348",
+      "crc32": "9ed246d8",
+      "crc_validation": "passed against official ZIP central directory",
+      "sheet": "Channel_1-007",
+      "valid_rows": 15502,
+      "required_rows_dropped": 0,
+      "candidate_cycles_in_file": 32,
+      "duplicate_candidates_in_file": 0,
+      "candidate_dates": [
+        {
+          "local_cycle": 1,
+          "date_start": "2010-08-31 16:05:06",
+          "date_end": "2010-08-31 18:07:07"
+        },
+        {
+          "local_cycle": 2,
+          "date_start": "2010-08-31 20:45:00",
+          "date_end": "2010-08-31 22:46:55"
+        },
+        {
+          "local_cycle": 3,
+          "date_start": "2010-09-01 01:23:25",
+          "date_end": "2010-09-01 03:25:14"
+        },
+        {
+          "local_cycle": 4,
+          "date_start": "2010-09-01 06:02:15",
+          "date_end": "2010-09-01 08:03:41"
+        },
+        {
+          "local_cycle": 5,
+          "date_start": "2010-09-01 10:40:34",
+          "date_end": "2010-09-01 12:41:48"
+        },
+        {
+          "local_cycle": 6,
+          "date_start": "2010-09-01 15:18:26",
+          "date_end": "2010-09-01 17:19:32"
+        },
+        {
+          "local_cycle": 7,
+          "date_start": "2010-09-01 19:57:01",
+          "date_end": "2010-09-01 21:57:53"
+        },
+        {
+          "local_cycle": 8,
+          "date_start": "2010-09-02 00:34:22",
+          "date_end": "2010-09-02 02:35:11"
+        },
+        {
+          "local_cycle": 9,
+          "date_start": "2010-09-02 05:12:07",
+          "date_end": "2010-09-02 07:12:37"
+        },
+        {
+          "local_cycle": 10,
+          "date_start": "2010-09-02 09:49:33",
+          "date_end": "2010-09-02 11:49:57"
+        },
+        {
+          "local_cycle": 11,
+          "date_start": "2010-09-02 14:26:49",
+          "date_end": "2010-09-02 16:27:06"
+        },
+        {
+          "local_cycle": 12,
+          "date_start": "2010-09-02 19:03:55",
+          "date_end": "2010-09-02 21:04:03"
+        },
+        {
+          "local_cycle": 13,
+          "date_start": "2010-09-02 23:40:32",
+          "date_end": "2010-09-03 01:40:40"
+        },
+        {
+          "local_cycle": 14,
+          "date_start": "2010-09-03 04:16:51",
+          "date_end": "2010-09-03 06:16:49"
+        },
+        {
+          "local_cycle": 15,
+          "date_start": "2010-09-03 08:53:16",
+          "date_end": "2010-09-03 10:53:05"
+        },
+        {
+          "local_cycle": 16,
+          "date_start": "2010-09-03 13:29:27",
+          "date_end": "2010-09-03 15:29:13"
+        },
+        {
+          "local_cycle": 17,
+          "date_start": "2010-09-03 18:05:42",
+          "date_end": "2010-09-03 20:05:21"
+        },
+        {
+          "local_cycle": 18,
+          "date_start": "2010-09-03 22:41:10",
+          "date_end": "2010-09-04 00:40:52"
+        },
+        {
+          "local_cycle": 19,
+          "date_start": "2010-09-04 03:16:30",
+          "date_end": "2010-09-04 05:16:06"
+        },
+        {
+          "local_cycle": 20,
+          "date_start": "2010-09-04 07:51:45",
+          "date_end": "2010-09-04 09:51:18"
+        },
+        {
+          "local_cycle": 21,
+          "date_start": "2010-09-04 12:26:56",
+          "date_end": "2010-09-04 14:26:26"
+        },
+        {
+          "local_cycle": 22,
+          "date_start": "2010-09-04 17:01:45",
+          "date_end": "2010-09-04 19:01:11"
+        },
+        {
+          "local_cycle": 23,
+          "date_start": "2010-09-04 21:36:48",
+          "date_end": "2010-09-04 23:36:09"
+        },
+        {
+          "local_cycle": 24,
+          "date_start": "2010-09-05 02:11:24",
+          "date_end": "2010-09-05 04:10:41"
+        },
+        {
+          "local_cycle": 25,
+          "date_start": "2010-09-05 06:46:04",
+          "date_end": "2010-09-05 08:45:17"
+        },
+        {
+          "local_cycle": 26,
+          "date_start": "2010-09-05 11:20:39",
+          "date_end": "2010-09-05 13:19:49"
+        },
+        {
+          "local_cycle": 27,
+          "date_start": "2010-09-05 15:54:58",
+          "date_end": "2010-09-05 17:54:06"
+        },
+        {
+          "local_cycle": 28,
+          "date_start": "2010-09-05 20:29:18",
+          "date_end": "2010-09-05 22:28:21"
+        },
+        {
+          "local_cycle": 29,
+          "date_start": "2010-09-06 01:03:25",
+          "date_end": "2010-09-06 03:02:24"
+        },
+        {
+          "local_cycle": 30,
+          "date_start": "2010-09-06 05:38:01",
+          "date_end": "2010-09-06 07:36:42"
+        },
+        {
+          "local_cycle": 31,
+          "date_start": "2010-09-06 10:12:30",
+          "date_end": "2010-09-06 12:11:03"
+        },
+        {
+          "local_cycle": 32,
+          "date_start": "2010-09-06 14:46:45",
+          "date_end": "2010-09-06 16:45:14"
+        }
+      ]
+    },
+    {
+      "member": "CS2_34/CS2_34_9_8_10.xlsx",
+      "local_path": "/Users/aaa/Documents/Codex/2026-10-12/pao/work/code2_run/data/CS2_34/CS2_34_9_8_10.xlsx",
+      "size_bytes": 380319,
+      "compressed_bytes": 347403,
+      "sha256": "9455016747ff59bd0f3ed59c3c5316ca7f4631085fe93d5a0b9e0deb7add2668",
+      "crc32": "17df20b7",
+      "crc_validation": "passed against official ZIP central directory",
+      "sheet": "Channel_1-007",
+      "valid_rows": 2352,
+      "required_rows_dropped": 0,
+      "candidate_cycles_in_file": 5,
+      "duplicate_candidates_in_file": 0,
+      "candidate_dates": [
+        {
+          "local_cycle": 1,
+          "date_start": "2010-09-07 13:13:51",
+          "date_end": "2010-09-07 15:13:21"
+        },
+        {
+          "local_cycle": 2,
+          "date_start": "2010-09-07 17:49:11",
+          "date_end": "2010-09-07 19:48:34"
+        },
+        {
+          "local_cycle": 3,
+          "date_start": "2010-09-07 22:23:23",
+          "date_end": "2010-09-08 00:22:52"
+        },
+        {
+          "local_cycle": 4,
+          "date_start": "2010-09-08 02:57:21",
+          "date_end": "2010-09-08 04:56:40"
+        },
+        {
+          "local_cycle": 5,
+          "date_start": "2010-09-08 07:32:07",
+          "date_end": "2010-09-08 09:09:10"
+        }
+      ]
+    },
+    {
+      "member": "CS2_34/CS2_34_9_24_10.xlsx",
+      "local_path": "/Users/aaa/Documents/Codex/2026-10-12/pao/work/code2_run/data/CS2_34/CS2_34_9_24_10.xlsx",
+      "size_bytes": 3729250,
+      "compressed_bytes": 3326393,
+      "sha256": "ddc3706c991c06ef7812f4cb6b0534d5212a7a9ce89e1a96fb087196397fbf50",
+      "crc32": "f8db3375",
+      "crc_validation": "passed against official ZIP central directory",
+      "sheet": "Channel_1-007",
+      "valid_rows": 23771,
+      "required_rows_dropped": 0,
+      "candidate_cycles_in_file": 50,
+      "duplicate_candidates_in_file": 0,
+      "candidate_dates": [
+        {
+          "local_cycle": 1,
+          "date_start": "2010-09-14 16:10:46",
+          "date_end": "2010-09-14 18:10:14"
+        },
+        {
+          "local_cycle": 2,
+          "date_start": "2010-09-14 20:46:13",
+          "date_end": "2010-09-14 22:45:52"
+        },
+        {
+          "local_cycle": 3,
+          "date_start": "2010-09-15 01:20:20",
+          "date_end": "2010-09-15 03:19:59"
+        },
+        {
+          "local_cycle": 4,
+          "date_start": "2010-09-15 05:55:38",
+          "date_end": "2010-09-15 07:54:50"
+        },
+        {
+          "local_cycle": 5,
+          "date_start": "2010-09-15 10:30:00",
+          "date_end": "2010-09-15 12:29:16"
+        },
+        {
+          "local_cycle": 6,
+          "date_start": "2010-09-15 15:04:10",
+          "date_end": "2010-09-15 17:03:19"
+        },
+        {
+          "local_cycle": 7,
+          "date_start": "2010-09-15 19:38:28",
+          "date_end": "2010-09-15 21:37:39"
+        },
+        {
+          "local_cycle": 8,
+          "date_start": "2010-09-16 00:11:15",
+          "date_end": "2010-09-16 02:10:33"
+        },
+        {
+          "local_cycle": 9,
+          "date_start": "2010-09-16 04:43:55",
+          "date_end": "2010-09-16 06:42:50"
+        },
+        {
+          "local_cycle": 10,
+          "date_start": "2010-09-16 09:17:27",
+          "date_end": "2010-09-16 11:16:17"
+        },
+        {
+          "local_cycle": 11,
+          "date_start": "2010-09-16 13:50:48",
+          "date_end": "2010-09-16 15:49:31"
+        },
+        {
+          "local_cycle": 12,
+          "date_start": "2010-09-16 18:24:03",
+          "date_end": "2010-09-16 20:22:38"
+        },
+        {
+          "local_cycle": 13,
+          "date_start": "2010-09-16 22:55:56",
+          "date_end": "2010-09-17 00:54:46"
+        },
+        {
+          "local_cycle": 14,
+          "date_start": "2010-09-17 03:27:45",
+          "date_end": "2010-09-17 05:26:22"
+        },
+        {
+          "local_cycle": 15,
+          "date_start": "2010-09-17 08:01:11",
+          "date_end": "2010-09-17 09:59:33"
+        },
+        {
+          "local_cycle": 16,
+          "date_start": "2010-09-17 12:33:36",
+          "date_end": "2010-09-17 14:32:00"
+        },
+        {
+          "local_cycle": 17,
+          "date_start": "2010-09-17 17:05:59",
+          "date_end": "2010-09-17 19:04:15"
+        },
+        {
+          "local_cycle": 18,
+          "date_start": "2010-09-17 21:37:17",
+          "date_end": "2010-09-17 23:35:48"
+        },
+        {
+          "local_cycle": 19,
+          "date_start": "2010-09-18 02:08:22",
+          "date_end": "2010-09-18 04:06:55"
+        },
+        {
+          "local_cycle": 20,
+          "date_start": "2010-09-18 06:39:24",
+          "date_end": "2010-09-18 08:37:57"
+        },
+        {
+          "local_cycle": 21,
+          "date_start": "2010-09-18 11:10:20",
+          "date_end": "2010-09-18 13:08:51"
+        },
+        {
+          "local_cycle": 22,
+          "date_start": "2010-09-18 15:40:53",
+          "date_end": "2010-09-18 17:39:23"
+        },
+        {
+          "local_cycle": 23,
+          "date_start": "2010-09-18 20:11:25",
+          "date_end": "2010-09-18 22:09:54"
+        },
+        {
+          "local_cycle": 24,
+          "date_start": "2010-09-19 00:41:41",
+          "date_end": "2010-09-19 02:40:07"
+        },
+        {
+          "local_cycle": 25,
+          "date_start": "2010-09-19 04:31:03",
+          "date_end": "2010-09-19 06:14:30"
+        },
+        {
+          "local_cycle": 26,
+          "date_start": "2010-09-19 08:46:28",
+          "date_end": "2010-09-19 10:44:54"
+        },
+        {
+          "local_cycle": 27,
+          "date_start": "2010-09-19 13:16:39",
+          "date_end": "2010-09-19 15:15:02"
+        },
+        {
+          "local_cycle": 28,
+          "date_start": "2010-09-19 17:46:45",
+          "date_end": "2010-09-19 19:45:06"
+        },
+        {
+          "local_cycle": 29,
+          "date_start": "2010-09-19 22:16:41",
+          "date_end": "2010-09-20 00:15:04"
+        },
+        {
+          "local_cycle": 30,
+          "date_start": "2010-09-20 02:46:35",
+          "date_end": "2010-09-20 04:44:46"
+        },
+        {
+          "local_cycle": 31,
+          "date_start": "2010-09-20 07:17:47",
+          "date_end": "2010-09-20 09:15:39"
+        },
+        {
+          "local_cycle": 32,
+          "date_start": "2010-09-20 11:48:29",
+          "date_end": "2010-09-20 13:46:15"
+        },
+        {
+          "local_cycle": 33,
+          "date_start": "2010-09-20 16:19:03",
+          "date_end": "2010-09-20 18:16:43"
+        },
+        {
+          "local_cycle": 34,
+          "date_start": "2010-09-20 20:49:51",
+          "date_end": "2010-09-20 22:47:44"
+        },
+        {
+          "local_cycle": 35,
+          "date_start": "2010-09-21 01:19:35",
+          "date_end": "2010-09-21 03:17:31"
+        },
+        {
+          "local_cycle": 36,
+          "date_start": "2010-09-21 05:50:32",
+          "date_end": "2010-09-21 07:48:02"
+        },
+        {
+          "local_cycle": 37,
+          "date_start": "2010-09-21 10:20:46",
+          "date_end": "2010-09-21 12:18:14"
+        },
+        {
+          "local_cycle": 38,
+          "date_start": "2010-09-21 14:50:53",
+          "date_end": "2010-09-21 16:48:17"
+        },
+        {
+          "local_cycle": 39,
+          "date_start": "2010-09-21 19:21:29",
+          "date_end": "2010-09-21 21:18:53"
+        },
+        {
+          "local_cycle": 40,
+          "date_start": "2010-09-21 23:50:47",
+          "date_end": "2010-09-22 01:48:23"
+        },
+        {
+          "local_cycle": 41,
+          "date_start": "2010-09-22 04:19:16",
+          "date_end": "2010-09-22 06:16:33"
+        },
+        {
+          "local_cycle": 42,
+          "date_start": "2010-09-22 08:49:22",
+          "date_end": "2010-09-22 10:46:32"
+        },
+        {
+          "local_cycle": 43,
+          "date_start": "2010-09-22 13:19:05",
+          "date_end": "2010-09-22 15:16:17"
+        },
+        {
+          "local_cycle": 44,
+          "date_start": "2010-09-22 17:48:54",
+          "date_end": "2010-09-22 19:45:59"
+        },
+        {
+          "local_cycle": 45,
+          "date_start": "2010-09-22 22:17:47",
+          "date_end": "2010-09-23 00:15:06"
+        },
+        {
+          "local_cycle": 46,
+          "date_start": "2010-09-23 02:46:39",
+          "date_end": "2010-09-23 04:43:53"
+        },
+        {
+          "local_cycle": 47,
+          "date_start": "2010-09-23 07:16:43",
+          "date_end": "2010-09-23 09:13:39"
+        },
+        {
+          "local_cycle": 48,
+          "date_start": "2010-09-23 11:01:50",
+          "date_end": "2010-09-23 12:42:42"
+        },
+        {
+          "local_cycle": 49,
+          "date_start": "2010-09-23 15:15:26",
+          "date_end": "2010-09-23 17:12:26"
+        },
+        {
+          "local_cycle": 50,
+          "date_start": "2010-09-23 19:44:56",
+          "date_end": "2010-09-23 21:41:59"
+        }
+      ]
+    }
+  ],
+  "candidate_cycles_total": 140,
+  "selection_complete": true
+}
