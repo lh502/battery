@@ -1,0 +1,16 @@
+{
+  "manifest_status": "reconstructed from supplied executable code; original protocol file was not provided",
+  "purpose": "Record unchanged default settings for this rerun and satisfy the script's required provenance-file hash",
+  "cells": [21, 8, 33, 34, 35, 36, 37, 38],
+  "new_cell_candidate_horizon": 101,
+  "initial_fit_cycles": [1, 40],
+  "validation_cycles": [41, 60],
+  "frozen_refit_cycles": [1, 60],
+  "capacity_test_cycles": [61, 101],
+  "voltage_robustness_cycles": [61, 80],
+  "voltage_confirmation_cycles": [81, 101],
+  "voltage_cutoff_V": 3.0,
+  "core_algorithm_modified": false,
+  "data_source": "https://calce.umd.edu/battery-data",
+  "note": "This file is a rerun configuration manifest and does not establish preregistration or prior experimental history."
+}
