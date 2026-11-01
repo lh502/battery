@@ -1,0 +1,15 @@
+{
+  "source_url": "https://web.calce.umd.edu/batteries/data/CS2_8.zip",
+  "retrieved_at_utc": "2026-10-12T13:23:42.029661+00:00",
+  "archive_path": "/Users/aaa/Documents/Codex/2026-10-12/pao/work/code2_run/downloads/CS2_8.zip",
+  "archive_bytes": 4350594,
+  "archive_sha256": "3abf380169cd4afc46c944dc6496f2784465333e710161701515da3d3033e9ae",
+  "archive_entry_count": 36,
+  "archive_crc_validation": "all members passed zipfile.testzip",
+  "member": "CS2_8/CS2_8_6_8_10.txt",
+  "member_bytes": 2295393,
+  "member_compressed_bytes": 323859,
+  "member_crc32": "c86665a4",
+  "member_sha256": "f10024531bf50ea66723028ce12ebf81a5ba28d0a4579715650ec14d2f42a81c",
+  "extracted_path": "/Users/aaa/Documents/Codex/2026-10-12/pao/work/code2_run/data/CS2_8_6_8_10.txt"
+}

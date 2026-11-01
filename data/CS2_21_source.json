@@ -1,0 +1,12 @@
+{
+  "url": "https://web.calce.umd.edu/batteries/data/CS2_21.zip",
+  "member": "CS2_21/CS2_21_6_8_10.txt",
+  "retrieval_mode": "partial ZIP entry using HTTP byte ranges",
+  "whole_archive_downloaded": false,
+  "remote_archive_size_bytes": 2685544,
+  "central_directory_sha256": "07bc4ec2417441485017b4cb09e74df7a1afe1ec0389ae60141dd8e88584b82b",
+  "size_bytes": 2316847,
+  "sha256": "ba7fb95d5485ed180c9d307a96619022b466acbaf119ed9971447676c97d352b",
+  "crc32": "90c62d7e",
+  "local_file_matches_official_bytes": true
+}
