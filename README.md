@@ -2,7 +2,6 @@
 
 锂离子电池容量老化与负载电压–SOC 一致性分析的代码、数据和运行结果，配套研究 **Chronological validation of cell-level aging and loaded voltage-SOC consistency for evidence-controlled lithium-ion endurance analysis**。
 
-本仓库整理了四个 Python 分析脚本、CALCE 八个 CS2 系列电芯的输入数据、逐循环预测、汇总指标、图表、运行日志和补充文档。结果来自附件中保存的 **2026-10-12 运行记录**；仓库整理与上传没有重新执行实验。
 
 ## 快速查看
 
@@ -37,7 +36,6 @@ battery/
 └── Supplementary Information.docx
 ```
 
-原 ZIP 的内容已解压到仓库根目录，文件及四个分析脚本保持原样。`SHA256SUMS` 覆盖原包文件，不包含后加的本 README 和补充文档。
 
 ## 环境与复现
 
