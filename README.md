@@ -11,7 +11,7 @@
 - [本次运行汇总.csv](本次运行汇总.csv)：中文结果汇总。
 - [results/multicell_summary.csv](results/multicell_summary.csv)：完整机器可读指标。
 - [Supplementary Information.docx](Supplementary%20Information.docx)：论文补充材料。
-- [Releases](../../releases)：保留用户提供的原始结果 ZIP，供整包下载。
+- [原始结果包下载](https://github.com/lh502/battery/releases/tag/results-2026-10-12)：保留用户提供的原始 ZIP 内容，供整包下载。
 
 GitHub 文件页通常展示 HTML 源码；请下载后在本地打开 HTML 报告。
 
@@ -86,6 +86,8 @@ sha256sum -c SHA256SUMS
 ![八电芯验证结果](figures/Fig01_multicell_validation.png)
 
 独立标定电压 MAE 为 6.628–62.678 mV。将 CS2-21 的电压–SOC 曲线迁移至其他七个电芯时，MAE 为 97.654–256.211 mV；其中 CS2-8 对应 97.654 mV。
+
+饱和容量模型没有在所有电芯上优于所有基线。例如，CS2-21 的近期基线 MAE 为 9.889 mAh，低于饱和模型的 10.667 mAh；CS2-37 的线性基线 MAE 为 15.294 mAh，低于饱和模型的 20.198 mAh。完整基线比较见汇总 CSV。
 
 ## 评价设置与解释范围
 
