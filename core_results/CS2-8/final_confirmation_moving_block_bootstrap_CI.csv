@@ -1,0 +1,4 @@
+window,metric,mean,ci95_low,ci95_high,n,method,block_length,bootstrap_samples,seed
+final_confirmation_81_101,cycle_mean_common_support_voltage_MAE_mV,6.628365900470543,5.5227884802353175,8.038554602406315,16,circular moving-block bootstrap,5,20000,20260806
+final_confirmation_81_101,cycle_mean_common_support_voltage_RMSE_mV,15.860054359195606,14.198898222908914,17.372751135494248,16,circular moving-block bootstrap,5,20000,20260806
+final_confirmation_81_101,capacity_derived_endpoint_absolute_error_min,0.6617362047948707,0.6617362047948707,0.6617362047948708,4,circular moving-block bootstrap,4,20000,20260806

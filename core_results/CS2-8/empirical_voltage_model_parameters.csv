@@ -1,0 +1,3 @@
+fit_scope,C_inf_mah,amplitude_mah,tau_cycles,U_dev_at_SOC0_V,U_dev_at_SOC1_V,relation_source
+cycles_1_40,950.2447422725924,74.19598436552656,500.0,3.0,3.996974999999999,development-derived loaded terminal-voltage--SOC relation; all construction trajectories truncated at measured 3.0-V first passage
+cycles_1_60_frozen,999.9674643086262,23.617024235113426,215.9452846088737,3.0,4.003694915254237,development-derived loaded terminal-voltage--SOC relation; all construction trajectories truncated at measured 3.0-V first passage

@@ -1,0 +1,7 @@
+window,support,cycle,time_min,predicted_SOC,measured_voltage_V,predicted_voltage_V,prediction_minus_measurement_error_mV,absolute_error_mV,at_discharge_onset
+validation_41_60,primary_common_support,57,0.0,1.0,4.135,3.996974999999999,-138.02500000000072,138.02500000000072,True
+validation_41_60,full_measured_support_diagnostic,57,0.0,1.0,4.135,3.996974999999999,-138.02500000000072,138.02500000000072,True
+robustness_61_80,primary_common_support,80,0.0,1.0,4.129,4.003694915254237,-125.3050847457624,125.3050847457624,True
+robustness_61_80,full_measured_support_diagnostic,80,0.0,1.0,4.129,4.003694915254237,-125.3050847457624,125.3050847457624,True
+final_confirmation_81_101,primary_common_support,101,109.72267195121864,0.009741908135490807,3.0,3.1407530391707392,140.7530391707392,140.7530391707392,False
+final_confirmation_81_101,full_measured_support_diagnostic,101,109.72267195121864,0.009741908135490807,3.0,3.1407530391707392,140.7530391707392,140.7530391707392,False
